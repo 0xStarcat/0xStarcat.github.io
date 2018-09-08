@@ -10,6 +10,11 @@ img {
   width: 800px;
 }
 
+.navbar-link {
+  display: inline-block;
+  margin: 40px;
+}
+
 .image-1 {
   width: 800px;
 }
